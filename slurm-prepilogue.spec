@@ -10,7 +10,8 @@
 #
 # All rights reserved.
 #
-# #
+#
+%global debug_package %{nil}
 
 Summary: Slurm prologue and epilogue scripts for HPCUGent
 Name: slurm-prepilogue
